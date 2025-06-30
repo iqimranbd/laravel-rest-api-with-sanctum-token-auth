@@ -59,3 +59,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# laravel-rest-api-with-sanctum-token-auth
+Laravel 12 REST API with Sanctum-based token authentication.
