@@ -9,4 +9,9 @@ class TestController extends Controller
     {
         return $request->user();
     }
+
+    public function test(Request $request)
+    {
+        return $request->user();
+    }
 }
